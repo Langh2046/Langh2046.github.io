@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>langh2046 blog</title>
-  
-  
+  <title>langh2046</title>
+  <icon>https://www.gravatar.com/avatar/2c0cd8a9aa44e6cfc11fda101a4b4cbe</icon>
+  <subtitle>阿豪博客</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -11,7 +11,7 @@
   
   <author>
     <name>langh2046</name>
-    
+    <email>2216075163@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
