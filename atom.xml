@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-05-11T14:32:34.185Z</updated>
+  <updated>2022-05-15T06:11:32.937Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文章链接</title>
+    <link href="http://example.com/2022/05/15/%E6%96%87%E7%AB%A0%E9%93%BE%E6%8E%A5/"/>
+    <id>http://example.com/2022/05/15/%E6%96%87%E7%AB%A0%E9%93%BE%E6%8E%A5/</id>
+    <published>2022-05-14T18:42:33.000Z</published>
+    <updated>2022-05-15T06:11:32.937Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`printf()` 函数</span><br></pre></td></tr></table></figure><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="string">``</span><span class="string">`javascript</span></span><br><span class="line"><span class="string">$(document).ready(function () &#123;</span></span><br><span class="line"><span class="string">    alert(&#x27;RUNOOB&#x27;);</span></span><br><span class="line"><span class="string">&#125;);</span></span><br><span class="line"><span class="string">`</span><span class="string">``</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>我的第一条博客</title>
